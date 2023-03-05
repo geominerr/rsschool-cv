@@ -56,3 +56,42 @@ Stack:
 - JavaScript
 
 [![Momentum](/img/img-project.png)](https://maksym4-momentum.netlify.app/)
+
+---
+
+### Code example:
+
+```javascript
+function getTimeOfDay() {
+  const timesOfDay = ["night", "morning", "afternoon", "evening"];
+  const hours = new Date().getHours();
+
+  return timesOfDay[Math.floor(hours / 6)];
+}
+
+function getTextGreeting(obj) {
+  const timeOfDay = getTimeOfDay(obj);
+  let textGreeting = `Good ${timeOfDay}, `;
+
+  if (obj.language !== "en-EN") {
+    switch (timeOfDay) {
+      case "night":
+        textGreeting = "Доброй ночи, ";
+        break;
+      case "morning":
+        textGreeting = "Доброe утро, ";
+        break;
+      case "afternoon":
+        textGreeting = "Добрый день, ";
+        break;
+      case "evening":
+        textGreeting = "Добрый вечер, ";
+        break;
+    }
+
+    return textGreeting;
+  }
+
+  return textGreeting;
+}
+```
