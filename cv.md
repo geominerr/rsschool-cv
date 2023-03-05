@@ -95,3 +95,13 @@ function getTextGreeting(obj) {
   return textGreeting;
 }
 ```
+
+---
+
+### Languages:
+
+| Language      |    Level    |              Certificate               |
+| ------------- | :---------: | :------------------------------------: |
+| **English**   |     A2      | [EFSET](https://efset.org/cert/yGmiem) |
+| **Ukrainian** |   Native    |                                        |
+| **Russian**   | Proficiency |                                        |
