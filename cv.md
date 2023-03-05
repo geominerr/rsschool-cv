@@ -5,7 +5,7 @@
 ### Contact information:
 
 **Location:** Ukraine, Kamianets Podilskyi
-**E-mail:** mv.webdew@gmail.com
+**E-mail:** <mv.webdew@gmail.com>
 **Telegram:** @Maksym_Voloshyn
 **Discord:** maksym_voloshyn#2691
 **LinkedIn:** in the soon...
@@ -33,6 +33,16 @@ I have a main job in construction/engineering. IT is my hobby, to which I devote
 
 ### Education:
 
-#### Dnipro University of Technology 2012
+##### Dnipro University of Technology 2012
 
 **Mine - surveyor**
+
+---
+
+### Courses:
+
+- JavaScript / FRONT-END. STAGE 0 [RSSchool](https://rs.school/)
+- A complete JavaScript + React course [Udemy](https://www.udemy.com/)
+- CS50 Basics of Programming [Prometheus](https://prometheus.org.ua/)
+
+---
