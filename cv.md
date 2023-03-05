@@ -30,3 +30,9 @@ I have a main job in construction/engineering. IT is my hobby, to which I devote
 - Avacode
 
 ---
+
+### Education:
+
+#### Dnipro University of Technology 2012
+
+**Mine - surveyor**
