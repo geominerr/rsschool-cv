@@ -84,7 +84,7 @@ function getTimeOfDay() {
 }
 
 function getTextGreeting(obj) {
-  const timeOfDay = getTimeOfDay(obj);
+  const timeOfDay = getTimeOfDay();
   let textGreeting = `Good ${timeOfDay}, `;
 
   if (obj.language !== "en-EN") {
